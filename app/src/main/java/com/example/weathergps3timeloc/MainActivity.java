@@ -43,7 +43,7 @@ import java.util.Locale;
 import java.util.TimeZone;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String API_KEY = "46d2ef6c9b25d4e43117533a1343af98";
+    private static final String API_KEY = " use user api key";
     private static final String API_BASE_URL = "http://api.openweathermap.org/data/2.5/";
     private static final int PERMISSION_REQUEST_CODE = 1;
 
